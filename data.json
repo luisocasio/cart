@@ -1,0 +1,41 @@
+{
+  "items": [
+    { "id": 1, "name": "toy", "description": "action figure", "cost": "1.99" },
+    { "id": 2, "name": "doll", "description": "barbie doll", "cost": "4.99" },
+    {
+      "id": 3,
+      "name": "jump rope",
+      "description": "a rope with handles",
+      "cost": "7.99",
+      "selected": "false"
+    },
+    {
+      "id": 4,
+      "name": "basket ball",
+      "description": "sports item",
+      "cost": "10.99",
+      "selected": "false"
+    },
+    {
+      "id": 5,
+      "name": "xbox",
+      "description": "gaming console",
+      "cost": "199.99",
+      "selected": "false"
+    },
+    {
+      "id": 6,
+      "name": "foot ball",
+      "description": "sports item",
+      "cost": "14.99",
+      "selected": "false"
+    },
+    {
+      "id": 7,
+      "name": "pc",
+      "description": "gaming computer",
+      "cost": "1299.99",
+      "selected": "false"
+    }
+  ]
+}
